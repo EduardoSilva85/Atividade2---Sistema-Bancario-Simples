@@ -29,13 +29,13 @@ De acordo com a atividade e o conteúdo, o usuário precisaria ter a opção de 
 \
 6° Dentro do switch, desenvolvi as funcionalidades:\
 
-**- Consultar Saldo:** apenas exibe o saldo atual armazenado na variável saldo.
+**- Consultar Saldo:** apenas exibe o saldo atual armazenado na variável saldo.\
 \
-**- Depositar:** solicita a senha novamente antes de confirmar a operação, garantindo mais segurança. O valor digitado passa por validação (deve ser maior que zero), e só então é somado ao saldo.
+**- Depositar:** solicita a senha novamente antes de confirmar a operação, garantindo mais segurança. O valor digitado passa por validação (deve ser maior que zero), e só então é somado ao saldo.\
 \
-**- Sacar:** também solicita a senha novamente antes de liberar a transação. Além disso, o valor passa por duas validações: deve ser maior que zero e não pode ultrapassar o saldo disponível.
+**- Sacar:** também solicita a senha novamente antes de liberar a transação. Além disso, o valor passa por duas validações: deve ser maior que zero e não pode ultrapassar o saldo disponível.\
 \
-**- Sair:** finaliza o programa exibindo uma mensagem de agradecimento.
+**- Sair:** finaliza o programa exibindo uma mensagem de agradecimento.\
 \
 7° Para evitar entradas inválidas que pudessem travar o sistema, utilizei a limpeza do buffer com:\
 ```
