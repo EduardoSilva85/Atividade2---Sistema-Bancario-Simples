@@ -17,8 +17,8 @@ Iniciei o desenvolvimento para a atividade 2 no dia 27/09 com a ferramenta que g
 
 **- Sacar;**
 
-**- Sair.**
-\
+**- Sair.**  
+  
   De acordo com a atividade e o conteúdo, o usuário precisaria ter a opção de ir e voltar no menu ou sair quando quiser.\
 \
 3° Planejei adicionar uma estrutura para que o usuário cadastre a senha antes de entrar, de forma simples inicialmente, usando as estruturas while, if, for, strlen e isdigit.\
