@@ -1,8 +1,8 @@
-## SISTEMA BANCÁRIO SIMPLES\
+## SISTEMA BANCÁRIO SIMPLES
 \
 Iniciei o desenvolvimento para a atividade 2 no dia 27/09 com a ferramenta que gostei bastante por ser online, a ONLINEGDB. Precisei estudar mais algumas bibliotecas para me ajudar no que eu queria proporcionar ao usuário.\
 \
-1° Adicionei as bibliotecas:\
+1° Adicionei as bibliotecas:
 ```
 #include <stdio.h>
 #include <string.h>
