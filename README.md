@@ -27,7 +27,7 @@ De acordo com a atividade e o conteúdo, o usuário precisaria ter a opção de 
 \
 5° Depois de validar a entrada no sistema, iniciei a implementação do menu principal utilizando a função exibirMenu() para organizar melhor o código. O menu foi estruturado com o uso de switch dentro de um do-while, permitindo que o usuário navegue entre as opções quantas vezes desejar até escolher a opção de saída.\
 \
-6° Dentro do switch, desenvolvi as funcionalidades:\
+6° Dentro do switch, desenvolvi as funcionalidades: \
 
 **- Consultar Saldo:** apenas exibe o saldo atual armazenado na variável saldo.\
 \
