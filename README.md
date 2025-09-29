@@ -9,8 +9,8 @@ Iniciei o desenvolvimento para a atividade 2 no dia 27/09 com a ferramenta que g
 #include <ctype.h>
 ```
 
-2° Planejei fazer um menu com void em que o usuário consiga fazer as opções básicas de um sistema bancário como:\
-
+2° Planejei fazer um menu com void em que o usuário consiga fazer as opções básicas de um sistema bancário como:
+\
 **- Consultar Saldo;**
 
 **- Depositar;**
