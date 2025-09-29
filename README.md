@@ -11,13 +11,13 @@ Iniciei o desenvolvimento para a atividade 2 no dia 27/09 com a ferramenta que g
 
 2° Planejei fazer um menu com void em que o usuário consiga fazer as opções básicas de um sistema bancário como:\
 
-**- Consultar Saldo;**\
+**- Consultar Saldo;**
 
-**- Depositar;**\
+**- Depositar;**
 
-**- Sacar;**\
+**- Sacar;**
 
-**- Sair.**\
+**- Sair.**
 \
 De acordo com a atividade e o conteúdo, o usuário precisaria ter a opção de ir e voltar no menu ou sair quando quiser.\
 \
