@@ -37,11 +37,11 @@ Iniciei o desenvolvimento para a atividade 2 no dia 27/09 com a ferramenta que g
 \
 **- Sair:** finaliza o programa exibindo uma mensagem de agradecimento.\
 \
-7° Para evitar entradas inválidas que pudessem travar o sistema, utilizei a limpeza do buffer com:\
+7° Para evitar entradas inválidas que pudessem travar o sistema, utilizei a limpeza do buffer com:  
 ```
 while ((c = getchar()) != '\n' && c != EOF);
-```
-Isso garantiu que, após qualquer entrada incorreta, o programa retornasse corretamente para o menu.\
+```  
+Isso garantiu que, após qualquer entrada incorreta, o programa retornasse corretamente para o menu.  
 \
 8° Também implementei a funcionalidade de perguntar ao usuário se deseja realizar outra operação após cada execução. Para isso, usei a função tolower, que permite aceitar tanto ‘Y/N’ maiúsculo quanto ‘y/n’ minúsculo, dentro de um do-while de validação.\
 \
