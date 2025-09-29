@@ -45,28 +45,28 @@ Isso garantiu que, após qualquer entrada incorreta, o programa retornasse corre
 \
 8° Também implementei a funcionalidade de perguntar ao usuário se deseja realizar outra operação após cada execução. Para isso, usei a função tolower, que permite aceitar tanto ‘Y/N’ maiúsculo quanto ‘y/n’ minúsculo, dentro de um do-while de validação.\
 \
-9° Finalizei o sistema com mensagens de feedback claras ao usuário em cada etapa, como: confirmação de depósitos e saques, saldo insuficiente, senha incorreta e agradecimentos ao sair.\
-\
-### Conclusão:\
-\
-Com o desenvolvimento desta atividade, pude praticar e aplicar diversas estruturas da linguagem C em um mesmo sistema. Entre elas, utilizei:\
-\
-**Bibliotecas:** stdio.h, string.h e ctype.h, fundamentais para entradas e saídas, manipulação de strings e validações de caracteres.
-\
-**Estruturas de repetição:** while, do-while e for, para loops de validação, repetição do menu e checagem de caracteres da senha.
-\
-**Estruturas condicionais:** if, else if, else, para validar entradas e controlar o fluxo do programa.
-\
-**Switch-case:** que deixou o menu mais organizado e simplificou o tratamento das funcionalidades.
-\
-**Função exibirMenu():** ajudou a modularizar e organizar o código.
-\
-**Validação de strings:** strlen, isdigit e strcmp, que garantiram verificações e comparações seguras.
-\
-**Tratamento de entradas:** limpeza de buffer (getchar()), evitando travamentos.
-\
-**tolower():** aceitando diferentes formas de entrada (‘Y/y’ e ‘N/n’).
-\
-**Reforço de segurança:** solicitação da senha não só no login, mas também em saques e depósitos, reforçando a lógica de proteção das operações.
-\
-Com todas essas estruturas, aprendi não apenas a criar um programa funcional, mas também a importância da validação de dados para evitar erros, a clareza na interação com o usuário e como combinar diferentes recursos da linguagem C para formar um sistema coeso. Esse exercício me mostrou como é possível evoluir de comandos simples para um projeto mais completo e interativo, que reflete situações do mundo real.
+9° Finalizei o sistema com mensagens de feedback claras ao usuário em cada etapa, como: confirmação de depósitos e saques, saldo insuficiente, senha incorreta e agradecimentos ao sair.  
+  
+### Conclusão:  
+  
+Com o desenvolvimento desta atividade, pude praticar e aplicar diversas estruturas da linguagem C em um mesmo sistema. Entre elas, utilizei:  
+  
+**Bibliotecas:** stdio.h, string.h e ctype.h, fundamentais para entradas e saídas, manipulação de strings e validações de caracteres.  
+  
+**Estruturas de repetição:** while, do-while e for, para loops de validação, repetição do menu e checagem de caracteres da senha.  
+  
+**Estruturas condicionais:** if, else if, else, para validar entradas e controlar o fluxo do programa.  
+  
+**Switch-case:** que deixou o menu mais organizado e simplificou o tratamento das funcionalidades.  
+  
+**Função exibirMenu():** ajudou a modularizar e organizar o código.  
+  
+**Validação de strings:** strlen, isdigit e strcmp, que garantiram verificações e comparações seguras.  
+  
+**Tratamento de entradas:** limpeza de buffer (getchar()), evitando travamentos.  
+  
+**tolower():** aceitando diferentes formas de entrada (‘Y/y’ e ‘N/n’).  
+  
+**Reforço de segurança:** solicitação da senha não só no login, mas também em saques e depósitos, reforçando a lógica de proteção das operações.  
+  
+Com todas essas estruturas, aprendi não apenas a criar um programa funcional, mas também a importância da validação de dados para evitar erros, a clareza na interação com o usuário e como combinar diferentes recursos da linguagem C para formar um sistema coeso. Esse exercício me mostrou como é possível evoluir de comandos simples para um projeto mais completo e interativo, que reflete situações do mundo real.  
