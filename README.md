@@ -1,6 +1,6 @@
-## SISTEMA BANCÁRIO SIMPLES
+## SISTEMA BANCÁRIO SIMPLES em LINGUAGEM C
 \
-Iniciei o desenvolvimento para a atividade 2 no dia 27/09 com a ferramenta que gostei bastante por ser online, a ONLINEGDB. Precisei estudar mais algumas bibliotecas para me ajudar no que eu queria proporcionar ao usuário.\
+Iniciei o desenvolvimento para a atividade 2 no dia 27/09 com a ferramenta que gostei bastante por ser online, a ONLINEGDB. Precisei estudar mais algumas bibliotecas da linguagem C para me ajudar no que eu queria proporcionar ao usuário.\
 \
 1° Adicionei as bibliotecas:
 ```
